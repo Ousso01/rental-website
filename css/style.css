@@ -493,7 +493,7 @@ background: url(../assets/car-banner1.jpg);
 
 .reviews .reviews-slider .box{
 padding: 2rem;
-margin: 2rem;
+margin: 2rem 0;
 text-align: center;
 opacity: .4;
 transform: scale(.9);
